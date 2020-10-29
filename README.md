@@ -14,7 +14,7 @@
 
 - 👨🏽‍💻 I’m Research Scholar and Freelancer;
 - 💼 I did my masters from Chandigarh University, Mohali, Punjab, India [CU](https://www.cuchd.in/);
-- 🤔 My interests are with Application Development, Machine Learning 🖥️, Data Science 📊, Cricket 🏏, etc..;
+- 🤔 My interests are with Data Science 📊, Machine Learning 🖥️, Android Application Development, Cricket 🏏, etc..;
 - 🎬 I love watching movies and web series <img src="https://www.pngfind.com/pngs/m/173-1737725_captain-americas-shield-hd-png-download.png" width=15 height=15>
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via rs301378@gmail.com to reach me;
