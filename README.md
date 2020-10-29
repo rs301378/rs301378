@@ -30,22 +30,9 @@
 <code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="vscode"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
-
-### GitHub Stats
-
-<p align="center">
-  <a href = "https://github.com/kishan0725">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=kishan0725&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
-  </a>
- </p>
- 
-### Top Languages
-
-<p align="center">
-<a href = "https://github.com/kishan0725">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=kishan0725&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
-</a>
-</p>
+<code><img height="40" src="https://sites.google.com/a/pivotal.io/pivotal-logo/_/rsrc/1488788131829/home/Pivotal_WhiteOnTeal_RGB.png" title="pivotal"></code>
+<code><img height="40" src="https://tiansss.github.io/img/heroku.png" title="heroku"></code>
+<code><img height="40" src="https://a0.awsstatic.com/main/images/logos/aws_logo_smile_1200x630.png" title="aws"></code>
 
 ### Follow me
 
