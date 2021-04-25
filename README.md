@@ -24,7 +24,7 @@
 
 ### Worked with 
 
-<code><img height="40" src="https://images.app.goo.gl/euBtTnoAAkgEVdJN6" title="python"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" title="java"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" title="flask"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" title="mysql"></code>
