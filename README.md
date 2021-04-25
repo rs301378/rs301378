@@ -34,3 +34,4 @@
 <code><img height="40" src="https://sites.google.com/a/pivotal.io/pivotal-logo/_/rsrc/1488788131829/home/Pivotal_WhiteOnTeal_RGB.png" title="pivotal"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" title="heroku"></code>
 <code><img height="40" src="https://a0.awsstatic.com/main/images/logos/aws_logo_smile_1200x630.png" title="aws"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" title="firebase"></code>
