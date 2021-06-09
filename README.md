@@ -36,5 +36,7 @@
 <code><img height="40" src="https://a0.awsstatic.com/main/images/logos/aws_logo_smile_1200x630.png" title="aws"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" title="firebase"></code>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rs301378&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=rs301378&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
