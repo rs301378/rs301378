@@ -11,7 +11,8 @@
 <em>
   
 **Talking about Personal Stuffs:**
-
+  
+- 💻 Working as a Project Associate at IIT Ropar, Punjab;
 - 👨🏽‍💻 Worked as a Project Engineer at IIT Mandi, Himachal Pradesh;
 - 👨🏽‍💻 I’m a Freelancer;
 - 💼 I did my masters from Chandigarh University, Mohali, Punjab, India [CU](https://www.cuchd.in/);
