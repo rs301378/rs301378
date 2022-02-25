@@ -42,3 +42,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=rs301378&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy) <br>
 
 [![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375)](https://stackoverflow.com//users/10912528/rohit-sharma)
+
+https://pagespeed-insights.herokuapp.com?url=https://rs301378.github.io
