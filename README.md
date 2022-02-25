@@ -38,6 +38,6 @@
 <code><img height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" title="firebase"></code>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rs301378&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
-[![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375)](https://stackoverflow.com//users/10912528/rohit-sharma) <br>
+[![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375)](https://stackoverflow.com//users/10912528/rohit-sharma) 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rs301378&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
