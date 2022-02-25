@@ -43,4 +43,5 @@
 
 [![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375)](https://stackoverflow.com//users/10912528/rohit-sharma)
 
-https://pagespeed-insights.herokuapp.com?url=https://rs301378.github.io
+![](https://gitwar.herokuapp.com/badge?username=rs301378&color=green)
+
