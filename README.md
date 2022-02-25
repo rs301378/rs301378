@@ -1,4 +1,5 @@
 ## Hi there, I'm Rohit Sharma <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
+<center>![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=default_repocard&animation=default&layout=zues&font=default)</center>
 
 <p>
   <em>
@@ -43,5 +44,4 @@
 
 [![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375)](https://stackoverflow.com//users/10912528/rohit-sharma)
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=default_repocard&animation=default&layout=zues&font=default)
 
