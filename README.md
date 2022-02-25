@@ -1,6 +1,8 @@
 <p align="center">
-  ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=default_repocard&animation=default&layout=zues&font=default)
-</p><br>
+  
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=default_repocard&animation=default&layout=zues&font=default)
+  
+</p>
 
 ## Hi there, I'm Rohit Sharma <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 
