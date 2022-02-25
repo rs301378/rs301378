@@ -43,5 +43,5 @@
 
 [![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375)](https://stackoverflow.com//users/10912528/rohit-sharma)
 
-![](https://gitwar.herokuapp.com/badge?username=rs301378&color=green)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
