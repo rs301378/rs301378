@@ -14,7 +14,8 @@
   
 **Talking about Personal Stuffs:**
   
-- 💻 Working as a Project Associate at [IIT Ropar](https://www.iitrpr.ac.in/), Punjab;
+- 💻 Working as a Associate Data Engineer at [Webhelp](https://webhelp.com/), Gurgaon;
+- 👨 Worked as a Project Associate at [IIT Ropar](https://www.iitrpr.ac.in/), Punjab;
 - 👨🏽‍💻 Worked as a Project Associate at [IIT Mandi](https://www.iitmandi.ac.in/), Himachal Pradesh;
 - 👨🏽‍💻 I’m a [Freelancer](https://www.upwork.com/freelancers/~010fc864b64788a284?viewMode=1);
 - 💼 I did my masters from [Chandigarh University](https://www.cuchd.in/), Mohali, Punjab, India;
