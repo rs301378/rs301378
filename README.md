@@ -22,11 +22,11 @@
 ### Worked with 
 
 <code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" title="Microsoft Azure"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" title="GCP"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" title="Databricks"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" title="Spark"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" title="flask"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21~bgwhite.svg" title="Microsoft Azure"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21~bgwhite.svg" title="GCP"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21~bgwhite.svg" title="Databricks"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21~bgwhite.svg" title="Spark"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21~v2.svg" title="flask"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" title="mysql"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="vscode"></code>
