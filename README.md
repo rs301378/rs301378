@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/1706f29f-971e-49fe-9bd2-c48c81e6c8da)
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Rohit Sharma <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 
