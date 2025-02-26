@@ -14,11 +14,7 @@
   
 **Talking about Personal Stuffs:**
   
-- 💻 Working as a Associate Data Engineer at [Webhelp](https://webhelp.com/), Gurgaon;
-- 👨 Worked as a Project Associate at [IIT Ropar](https://www.iitrpr.ac.in/), Punjab;
-- 👨🏽‍💻 Worked as a Project Associate at [IIT Mandi](https://www.iitmandi.ac.in/), Himachal Pradesh;
-- 👨🏽‍💻 I’m a [Freelancer](https://www.upwork.com/freelancers/~010fc864b64788a284?viewMode=1);
-- 🎬 I love watching movies and web series <img src="https://www.pngfind.com/pngs/m/173-1737725_captain-americas-shield-hd-png-download.png" width=15 height=15>
+- 💻 Working as a Data Engineer at [Concentrix](https://concentrix.com/), Gurgaon;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via rs301378@gmail.com to reach me;
 <br/> 
