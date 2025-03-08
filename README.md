@@ -11,8 +11,6 @@
 
 <em>
   
-**Talking about Personal Stuffs:**
-  
 - 💻 Working as a Data Engineer at [Concentrix](https://concentrix.com/), Gurgaon;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via rs301378@gmail.com to reach me;
