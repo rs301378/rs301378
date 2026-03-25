@@ -33,7 +33,6 @@
 <code><img height="40" src="https://a0.awsstatic.com/main/images/logos/aws_logo_smile_1200x630.png" title="aws"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" title="firebase"></code>
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=rs301378&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy) <br>
 
 [![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375)](https://stackoverflow.com//users/10912528/rohit-sharma)
 
