@@ -40,14 +40,14 @@ analytics and machine learning.
 <p>
 <img height="36" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
 <img height="36" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg">
-<img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png">
-<img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pandas/pandas.png">
+<img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg">
+<img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg">
 </p>
 
 **Big Data & Processing**
 <p>
 <img height="36" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21~bgwhite.svg">
-<img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/apache-airflow/apache-airflow.png">
+<img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg">
 </p>
 
 **Cloud & Lakehouse**
@@ -58,14 +58,33 @@ analytics and machine learning.
 <img height="36" src="https://a0.awsstatic.com/main/images/logos/aws_logo_smile_1200x630.png">
 </p>
 
+**Collaboration & Workflow**
+<p>
+<img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
+<img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
+<img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg">
+<img height="36" src="https://cdn.simpleicons.org/dbt">
+</p>
+
 **Engineering & Tools**
 <p>
-<img height="36" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-<img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
+<img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 <img height="36" src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21~v2.svg">
 <img height="36" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
 <img height="36" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
 </p>
+
+---
+
+### Featured Projects
+
+| Project | Description |
+|---|---|
+| [Car Price Predictions](https://github.com/rs301378/Car-Price-Predictions) | Regression model for used-car price estimation |
+| [Class Balancing](https://github.com/rs301378/Class_balancing) | Techniques for handling imbalanced classification datasets |
+| [Airplane Accident Severity](https://github.com/rs301378/HackerEarth-Machine-Learning-challenge---Calculate-the-severity-of-an-airplane-accident) | HackerEarth challenge classifying accident severity |
+| [SUV Purchase Prediction](https://github.com/rs301378/SUV_prediction) | Classification model for purchase likelihood |
 
 ---
 
