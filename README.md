@@ -21,7 +21,7 @@
 
 ### About Me
 
-I'm a Data Engineer with 3+ years building large-scale batch pipelines, ETL/ELT systems, and lakehouse
+I'm a Data Engineer with 4+ years building large-scale batch pipelines, ETL/ELT systems, and lakehouse
 architectures — the infrastructure that data science and AI teams depend on. My work spans the full data
 lifecycle: ingesting from source systems, transforming with Spark, and serving reliable, governed data for
 analytics and machine learning.
@@ -64,7 +64,7 @@ analytics and machine learning.
 <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
 <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
 <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg">
-<img height="36" src="https://cdn.simpleicons.org/dbt">
+<img height="36" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/dbt.svg">
 </p>
 
 **Engineering & Tools**
@@ -74,17 +74,6 @@ analytics and machine learning.
 <img height="36" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
 <img height="36" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
 </p>
-
----
-
-### Featured Projects
-
-| Project | Description |
-|---|---|
-| [Car Price Predictions](https://github.com/rs301378/Car-Price-Predictions) | Regression model for used-car price estimation |
-| [Class Balancing](https://github.com/rs301378/Class_balancing) | Techniques for handling imbalanced classification datasets |
-| [Airplane Accident Severity](https://github.com/rs301378/HackerEarth-Machine-Learning-challenge---Calculate-the-severity-of-an-airplane-accident) | HackerEarth challenge classifying accident severity |
-| [SUV Purchase Prediction](https://github.com/rs301378/SUV_prediction) | Classification model for purchase likelihood |
 
 ---
 
