@@ -1,39 +1,98 @@
+<h1 align="center">Hi 👋, I'm Rohit Sharma</h1>
+<h3 align="center">Data Engineer building the pipelines behind data science & AI systems</h3>
 
-## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Rohit Sharma <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="30">
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohit-sharma3/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rs301378@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/10912528/rohit-sharma">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### About Me
+
+I'm a Data Engineer with 3+ years building large-scale batch pipelines, ETL/ELT systems, and lakehouse
+architectures — the infrastructure that data science and AI teams depend on. My work spans the full data
+lifecycle: ingesting from source systems, transforming with Spark, and serving reliable, governed data for
+analytics and machine learning.
+
+- 🔭 Currently building data pipelines and migrating legacy warehouses onto the Databricks Lakehouse
+- 🧠 Interested in the intersection of data engineering, applied machine learning, and AI-driven data platforms
+- 📄 Co-author of a Scopus-indexed publication on ensemble machine learning for imbalanced bioassay data
+- 💬 Always happy to talk data pipelines, Spark, or applied ML — feel free to reach out
+- 📫 Reach me at **rs301378@gmail.com**
+
+---
+
+### Tech Stack
+
+**Languages & Data Science**
 <p>
-  <em>
-    A passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Himachal Pradesh, India.
-  </em>
- </p>
+<img height="36" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
+<img height="36" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg">
+<img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png">
+<img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pandas/pandas.png">
+</p>
 
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://github.com/user-attachments/assets/1706f29f-971e-49fe-9bd2-c48c81e6c8da" />
+**Big Data & Processing**
+<p>
+<img height="36" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21~bgwhite.svg">
+<img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/apache-airflow/apache-airflow.png">
+</p>
 
-<em>
-  
-- 💻 Working as a Data Engineer at [Concentrix](https://concentrix.com/), Gurgaon;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via rs301378@gmail.com to reach me;
-<br/> 
-</em>
+**Cloud & Lakehouse**
+<p>
+<img height="36" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21~bgwhite.svg">
+<img height="36" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21~bgwhite.svg">
+<img height="36" src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21~bgwhite.svg">
+<img height="36" src="https://a0.awsstatic.com/main/images/logos/aws_logo_smile_1200x630.png">
+</p>
 
-### Worked with 
+**Engineering & Tools**
+<p>
+<img height="36" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+<img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
+<img height="36" src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21~v2.svg">
+<img height="36" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
+<img height="36" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+</p>
 
-<code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21~bgwhite.svg" title="Microsoft Azure"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21~bgwhite.svg" title="GCP"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21~bgwhite.svg" title="Databricks"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21~bgwhite.svg" title="Spark"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21~v2.svg" title="flask"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" title="mysql"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="vscode"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" title="heroku"></code>
-<code><img height="40" src="https://a0.awsstatic.com/main/images/logos/aws_logo_smile_1200x630.png" title="aws"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" title="firebase"></code>
- 
+---
 
-[![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375)](https://stackoverflow.com//users/10912528/rohit-sharma)
+### Featured Projects
 
+| Project | Description |
+|---|---|
+| [Car Price Predictions](https://github.com/rs301378/Car-Price-Predictions) | Regression model for used-car price estimation |
+| [Class Balancing](https://github.com/rs301378/Class_balancing) | Techniques for handling imbalanced classification datasets |
+| [Airplane Accident Severity](https://github.com/rs301378/HackerEarth-Machine-Learning-challenge---Calculate-the-severity-of-an-airplane-accident) | HackerEarth challenge classifying accident severity |
+| [SUV Purchase Prediction](https://github.com/rs301378/SUV_prediction) | Classification model for purchase likelihood |
 
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rs301378&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rs301378&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rs301378&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <em>Thanks for stopping by — let's connect.</em>
+</p>
