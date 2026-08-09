@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rs301378/rs301378/main/assets/profile-banner.svg" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Rohit Sharma</h1>
 <h3 align="center">Data Engineer building the pipelines behind data science & AI systems</h3>
 
