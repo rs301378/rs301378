@@ -69,17 +69,6 @@ analytics and machine learning.
 
 ---
 
-### Featured Projects
-
-| Project | Description |
-|---|---|
-| [Car Price Predictions](https://github.com/rs301378/Car-Price-Predictions) | Regression model for used-car price estimation |
-| [Class Balancing](https://github.com/rs301378/Class_balancing) | Techniques for handling imbalanced classification datasets |
-| [Airplane Accident Severity](https://github.com/rs301378/HackerEarth-Machine-Learning-challenge---Calculate-the-severity-of-an-airplane-accident) | HackerEarth challenge classifying accident severity |
-| [SUV Purchase Prediction](https://github.com/rs301378/SUV_prediction) | Classification model for purchase likelihood |
-
----
-
 ### GitHub Stats
 
 <p align="center">
